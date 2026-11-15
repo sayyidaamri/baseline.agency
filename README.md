@@ -1,3 +1,5 @@
+![Datum Studio homepage preview](docs/preview/homepage.gif)
+
 # Datum Studio — static site (clone of baseline.agency's look & behaviour)
 
 Native HTML/CSS/JS. No build server, no framework, no hosting needed: **double-click `index.html`**.
